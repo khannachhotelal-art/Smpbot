@@ -1,0 +1,11 @@
+{
+  "name": "smp-bot",
+  "version": "1.0.0",
+  "main": "multi-bot.js",
+  "scripts": {
+    "start": "node multi-bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.0.0"
+  }
+}
